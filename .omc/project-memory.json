@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1780315604528,
+  "projectRoot": "C:\\Workspace\\jpa-entity-doc",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Java",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "pom.xml"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "maven",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "src"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1780315604430,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\Product.java",
+      "accessCount": 1,
+      "lastAccessed": 1780315634171,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\service\\ProductService.java",
+      "accessCount": 1,
+      "lastAccessed": 1780315634960,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\ProductController.java",
+      "accessCount": 1,
+      "lastAccessed": 1780315635444,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\Category.java",
+      "accessCount": 1,
+      "lastAccessed": 1780315647624,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\repository\\CategoryRepository.java",
+      "accessCount": 1,
+      "lastAccessed": 1780315652640,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\service\\CategoryService.java",
+      "accessCount": 1,
+      "lastAccessed": 1780315656241,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\CategoryController.java",
+      "accessCount": 1,
+      "lastAccessed": 1780315658916,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
