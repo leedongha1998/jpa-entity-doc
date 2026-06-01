@@ -1,0 +1,9 @@
+com\example\jpadoc\repository\ProductRepository.class
+com\example\jpadoc\service\ProductService.class
+com\example\jpadoc\JpaEntityDocApplication.class
+com\example\jpadoc\repository\CategoryRepository.class
+com\example\jpadoc\controller\CategoryController.class
+com\example\jpadoc\entity\Category.class
+com\example\jpadoc\entity\Product.class
+com\example\jpadoc\service\CategoryService.class
+com\example\jpadoc\controller\ProductController.class

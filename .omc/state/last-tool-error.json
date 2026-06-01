@@ -1,0 +1,7 @@
+{
+  "tool_name": "PowerShell",
+  "tool_input_preview": "{\"command\":\"Get-Command mvn -ErrorAction SilentlyContinue; Get-ChildItem \\\"C:\\\\Program Files\\\\*maven*\\\" -ErrorAction SilentlyContinue; Get-ChildItem \\\"C:\\\\tools\\\\*\\\" -ErrorAction SilentlyContinue | Se...",
+  "error": "Exit code 1",
+  "timestamp": "2026-06-01T12:08:52.158Z",
+  "retry_count": 2
+}
