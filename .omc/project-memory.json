@@ -50,6 +50,18 @@
   },
   "hotPaths": [
     {
+      "path": "pom.xml",
+      "accessCount": 2,
+      "lastAccessed": 1780479537604,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\JpaEntityDocApplication.java",
+      "accessCount": 2,
+      "lastAccessed": 1780479546816,
+      "type": "file"
+    },
+    {
       "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\Product.java",
       "accessCount": 1,
       "lastAccessed": 1780315634171,
@@ -89,6 +101,90 @@
       "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\CategoryController.java",
       "accessCount": 1,
       "lastAccessed": 1780315658916,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\entity\\BaseEntity.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479550356,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\exception\\ErrorCode.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479553560,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\response\\ApiResponse.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479557109,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\Role.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479560213,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\MemberStatus.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479562758,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\exception\\BusinessException.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479572120,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\handler\\GlobalExceptionHandler.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479586741,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\Member.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479590419,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\dto\\member\\MemberCreateRequest.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479593835,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\dto\\member\\MemberUpdateRequest.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479597192,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\dto\\member\\MemberResponse.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479601174,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\repository\\MemberRepository.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479605222,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\service\\MemberService.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479608337,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\MemberController.java",
+      "accessCount": 1,
+      "lastAccessed": 1780479611978,
       "type": "file"
     }
   ],
