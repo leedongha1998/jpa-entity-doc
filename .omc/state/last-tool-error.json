@@ -1,7 +1,7 @@
 {
   "tool_name": "PowerShell",
-  "tool_input_preview": "{\"command\":\"Get-Command mvn -ErrorAction SilentlyContinue; Get-ChildItem \\\"C:\\\\Program Files\\\\*maven*\\\" -ErrorAction SilentlyContinue; Get-ChildItem \\\"C:\\\\tools\\\\*\\\" -ErrorAction SilentlyContinue | Se...",
-  "error": "Exit code 1",
-  "timestamp": "2026-06-01T12:08:52.158Z",
+  "tool_input_preview": "{\"command\":\"mvn --version 2>&1\",\"description\":\"Check Maven version\"}",
+  "error": "Exit code 1\nmvn : The term 'mvn' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.\r\nAt line:1 char:1\r\n+ mvn --version 2>&1\r\n+ ~~~\r\n    + CategoryInfo          : ObjectNotFound: (mvn:String) [], CommandNotFoundException\r\n    + FullyQualifiedErrorId : CommandNotFoundException",
+  "timestamp": "2026-06-07T12:17:46.164Z",
   "retry_count": 2
 }
