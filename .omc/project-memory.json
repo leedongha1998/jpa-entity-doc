@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1780315604528,
+  "lastScanned": 1780834495424,
   "projectRoot": "C:\\Workspace\\jpa-entity-doc",
   "techStack": {
     "languages": [
@@ -44,11 +44,24 @@
       "path": "src",
       "purpose": "Source code",
       "fileCount": 0,
-      "lastAccessed": 1780315604430,
+      "lastAccessed": 1780834495319,
+      "keyFiles": []
+    },
+    "target": {
+      "path": "target",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1780834495320,
       "keyFiles": []
     }
   },
   "hotPaths": [
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\exception\\ErrorCode.java",
+      "accessCount": 3,
+      "lastAccessed": 1780834629587,
+      "type": "file"
+    },
     {
       "path": "pom.xml",
       "accessCount": 2,
@@ -63,20 +76,26 @@
     },
     {
       "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\Product.java",
-      "accessCount": 1,
-      "lastAccessed": 1780315634171,
+      "accessCount": 2,
+      "lastAccessed": 1780834580026,
       "type": "file"
     },
     {
       "path": "src\\main\\java\\com\\example\\jpadoc\\service\\ProductService.java",
-      "accessCount": 1,
-      "lastAccessed": 1780315634960,
+      "accessCount": 2,
+      "lastAccessed": 1780834581036,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\entity\\BaseEntity.java",
+      "accessCount": 2,
+      "lastAccessed": 1780834581735,
       "type": "file"
     },
     {
       "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\ProductController.java",
-      "accessCount": 1,
-      "lastAccessed": 1780315635444,
+      "accessCount": 2,
+      "lastAccessed": 1780834586364,
       "type": "file"
     },
     {
@@ -101,18 +120,6 @@
       "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\CategoryController.java",
       "accessCount": 1,
       "lastAccessed": 1780315658916,
-      "type": "file"
-    },
-    {
-      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\entity\\BaseEntity.java",
-      "accessCount": 1,
-      "lastAccessed": 1780479550356,
-      "type": "file"
-    },
-    {
-      "path": "src\\main\\java\\com\\example\\jpadoc\\common\\exception\\ErrorCode.java",
-      "accessCount": 1,
-      "lastAccessed": 1780479553560,
       "type": "file"
     },
     {
@@ -185,6 +192,36 @@
       "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\MemberController.java",
       "accessCount": 1,
       "lastAccessed": 1780479611978,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\repository\\ProductRepository.java",
+      "accessCount": 1,
+      "lastAccessed": 1780834587346,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\entity\\Review.java",
+      "accessCount": 1,
+      "lastAccessed": 1780834607061,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\repository\\ReviewRepository.java",
+      "accessCount": 1,
+      "lastAccessed": 1780834612239,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\service\\ReviewService.java",
+      "accessCount": 1,
+      "lastAccessed": 1780834618453,
+      "type": "file"
+    },
+    {
+      "path": "src\\main\\java\\com\\example\\jpadoc\\controller\\ReviewController.java",
+      "accessCount": 1,
+      "lastAccessed": 1780834626763,
       "type": "file"
     }
   ],
